@@ -10,15 +10,18 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm
 
 Step 1:
-Import the numpy module to use the built-in functions for calculation
+start the program
 
 Step 2:
-Prepare the lists from each linear equations and assign in np.array()
+Import the numpy  module to use the built-in functions for calculation
 
 Step 3:
-Using the np.linalg.solve(), we can find the solutions.
+Prepare the lists from each linear equations and assign in np.array()
 
 Step 4:
+Using the np.linalg.solve(), we can find the solutions.
+
+Step 5:
 End the program
 
 ## Program:
@@ -65,15 +68,18 @@ To write a program to slove the  matrix.
 ## Algorithm
 
 Step 1:
-Import the numpy module to use the built-in functions for calculation
+start the program
 
 Step 2:
-Prepare the lists from each linear equations and assign in np.array()
+Import the numpy  module to use the built-in functions for calculation
 
 Step 3:
-Using the np.linalg.solve(), we can find the solutions.
+Prepare the lists from each linear equations and assign in np.array()
 
 Step 4:
+Using the np.linalg.solve(), we can find the solutions.
+
+Step 5:
 End the program
 
 ## Program:
